@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Lovepreet Singh",
+    "password": "12345",
+    "hashed_password": "$2a$10$MqonEcizso4Re9iFEMajHOIHCUd5O3Q.XZX779C50ZnC/Hb6mirwW",
+    "tickets_booked": [
+      {
+        "ticket_id": "your_ticket_id",
+        "user_id": "abcdefgh",
+        "source": "Bangalore",
+        "destination": "Delhi",
+        "date_of_travel": 1702060200000,
+        "train": {
+          "train_id": "bacs",
+          "train_no": "12345",
+          "seats": [
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          ],
+          "station_times": {
+            "Bangalore": "13:50:00",
+            "Jaipur": "13:50:00",
+            "Delhi": "13:50:00"
+          },
+          "stations": [
+            "Bangalore",
+            "Jaipur",
+            "Delhi"
+          ]
+        }
+      }
+    ],
+    "user_id": "abcdefgh"
+  },
+  {
+    "name": "Divyanshu Tiwari",
+    "password": "hhbb11",
+    "hashed_password": "$2a$10$O/OWE.xh3gttMANiM4BIX.mo.4/myik1J739DZ25ecVENk8xhMCW2",
+    "tickets_booked": [],
+    "user_id": "fe46da4d-c8d1-4229-97e6-600dce6941e8"
+  },
+  {
+    "name": "divy",
+    "password": "Hello1234",
+    "hashed_password": "$2a$10$XewHwVWI.DIBBWv4.beM7OGpx1mmFJ.yz9Swg.crKS9Ihmn9ry9XC",
+    "tickets_booked": [],
+    "user_id": "da06487e-1eaf-4ec5-b291-9a04895ae3e7"
+  },
+  {
+    "name": "sim",
+    "password": "Awesome",
+    "hashed_password": "$2a$10$CsSfBF2rcyv2XnY4gJ1ZrOxX2ey.PMCi.ENxkHxpUB2j9nQjOK9MG",
+    "tickets_booked": [],
+    "user_id": "940a0e75-f777-46fd-9c78-6954bba51183"
+  },
+  {
+    "name": "simola",
+    "password": "gola",
+    "hashed_password": "$2a$10$hip/18s/KeooQ3XOZTMrQOZFIwn27kkzWg.tyuEiD/8QZGmVuxMCm",
+    "tickets_booked": [],
+    "user_id": "27379f90-9978-4c87-b6cb-f72808c95999"
+  }
+]
